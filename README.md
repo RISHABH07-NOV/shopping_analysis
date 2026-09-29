@@ -6,9 +6,9 @@ This project demonstrates a complete end-to-end data analytics workflow, startin
 The goal is to transform raw data into meaningful business insights using Python, SQL, Power BI, and professional reporting tools.
 
 Project Workflow
-Raw Dataset
-     ↓
-Python Data Loading
+--Raw Dataset
+--     ↓
+--Python Data Loading
      ↓
 Data Cleaning & EDA
      ↓
